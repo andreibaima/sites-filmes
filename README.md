@@ -9,10 +9,10 @@
 
 #### Passos para executar a aplicação:
 * Instalar dependencias do projeto através do comando
-		```
-    	npm install
-    	```
-	* Iniciar o Projeto através do comando
-		```
-    	npm start
-    	```
+	```
+    npm install
+    ```
+* Iniciar o Projeto através do comando
+	```
+    npm start
+    ```
