@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.App {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center; /* centro de top para bottom */
+    flex-direction: column;
+}
